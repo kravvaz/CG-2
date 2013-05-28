@@ -3,6 +3,7 @@
 \SweaveOpts{echo=true}
 
 \begin{document}
+\SweaveOpts{concordance=TRUE}
 
 
 First we define a figure hook:
